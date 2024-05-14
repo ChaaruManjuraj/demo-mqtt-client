@@ -1,0 +1,6 @@
+[submodule "aws-iot-device-sdk-python-v2"]
+	path = aws-iot-device-sdk-python-v2
+	url = https://github.com/aws/aws-iot-device-sdk-python-v2.git
+[submodule "src/paho.mqtt.cpp"]
+	path = src/paho.mqtt.cpp
+	url = https://github.com/eclipse/paho.mqtt.cpp.git
